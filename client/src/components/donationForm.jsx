@@ -100,7 +100,7 @@ function DonationForm() {
                     Now you can easily donate anytime and anywhere. We are ready to donate to those in need around us. 
                     </p>
                     <p className="flex flex-col mt-6 text-center">
-                    Together we can, Together we love each other.
+                    Together we can, Together we love each other!
                     </p>
                 </div>
                 <div className="p-5 bg-white md:flex-auto">
